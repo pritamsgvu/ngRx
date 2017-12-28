@@ -1,0 +1,2 @@
+# ngRx
+Redux Setup 
